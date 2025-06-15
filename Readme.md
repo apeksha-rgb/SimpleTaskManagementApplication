@@ -1,4 +1,4 @@
-#Task Manager - React + Node.js App
+# Task Manager - React + Node.js App
 
 This is a simple full-stack task management application built using **React (frontend)** and **Node.js + Express (backend)** . It allows users to add, update,view and delete tasks.
 
